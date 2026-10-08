@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block site_nav %}
+  <aside class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+    <div class="md-sidebar__scrollwrap">
+      <div class="md-sidebar__inner">
+        <a class="infobim-brand" href="{{ nav.homepage.url | url }}" aria-label="InfoBIM">
+          <img src="{{ config.theme.logo | url }}" alt="InfoBIM" width="88" height="88">
+          <strong>InfoBIM</strong>
+          <span>{{ {"pt": "Documentação", "en": "Documentation", "es": "Documentación"}[config.theme.language] }}</span>
+        </a>
+        {% include "partials/nav.html" %}
+      </div>
+    </div>
+  </aside>
+{% endblock %}

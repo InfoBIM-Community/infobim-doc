@@ -1,0 +1,137 @@
+site_name: InfoBIM
+site_url: !ENV [DOCS_SITE_URL, "http://localhost:8000/"]
+site_description: Documentação OpenBIM — projetos, modelos IFC e informação semântica.
+site_author: InfoBIM
+docs_dir: content
+site_dir: !ENV [MKDOCS_SITE_DIR, /tmp/infobim-site]
+use_directory_urls: true
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: pt
+  logo: assets/images/infobim-logo.png
+  favicon: assets/images/infobim-logo.png
+  font: false
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Alternar para tema escuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Alternar para tema claro
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+
+hooks:
+  - hooks/sitemaps.py
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: folder
+      fallback_to_default: false
+      reconfigure_material: true
+      languages:
+        - locale: pt
+          name: Português
+          default: true
+          build: true
+        - locale: en
+          name: English
+          build: true
+          site_description: OpenBIM documentation — projects, IFC models and semantic information.
+          nav_translations:
+            Documentação: Documentation
+            Visão geral: Overview
+            Primeiros passos: Getting started
+            Módulos (OntoBDC): Modules (OntoBDC)
+            Módulos: Modules
+          theme:
+            palette:
+              - media: "(prefers-color-scheme: light)"
+                scheme: default
+                primary: custom
+                accent: custom
+                toggle:
+                  icon: material/weather-night
+                  name: Switch to dark mode
+              - media: "(prefers-color-scheme: dark)"
+                scheme: slate
+                primary: custom
+                accent: custom
+                toggle:
+                  icon: material/weather-sunny
+                  name: Switch to light mode
+        - locale: es
+          name: Español
+          build: true
+          site_description: Documentación OpenBIM — proyectos, modelos IFC e información semántica.
+          nav_translations:
+            Documentação: Documentación
+            Visão geral: Visión general
+            Primeiros passos: Primeros pasos
+            Módulos (OntoBDC): Módulos (OntoBDC)
+            Módulos: Módulos
+          theme:
+            palette:
+              - media: "(prefers-color-scheme: light)"
+                scheme: default
+                primary: custom
+                accent: custom
+                toggle:
+                  icon: material/weather-night
+                  name: Cambiar al tema oscuro
+              - media: "(prefers-color-scheme: dark)"
+                scheme: slate
+                primary: custom
+                accent: custom
+                toggle:
+                  icon: material/weather-sunny
+                  name: Cambiar al tema claro
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+nav:
+- Documentação:
+  - Visão geral: index.md
+  - Primeiros passos: getting-started.md
+- Reference:
+  - CLI: cli.md
+  - Módulos: module.md
+  - FSM:
+    - 2d: fsm/2d.md
+    - 3d: fsm/3d.md
+    - annotation: fsm/annotation.md
+    - cli: fsm/cli.md
+    - context: fsm/context.md
+    - drawing: fsm/drawing.md
+    - ifc: fsm/ifc.md
+    - project: fsm/project.md

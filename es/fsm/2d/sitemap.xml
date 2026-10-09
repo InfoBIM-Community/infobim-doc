@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
         <loc>http://localhost:8000/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:8000/"/>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/"/>
@@ -10,7 +10,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/cli/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:8000/cli/"/>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/cli/"/>
@@ -18,7 +18,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/getting-started/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:8000/getting-started/"/>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/getting-started/"/>
@@ -26,7 +26,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/module/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:8000/module/"/>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/module/"/>
@@ -34,7 +34,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/fsm/2d/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:8000/fsm/2d/"/>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/fsm/2d/"/>
@@ -42,7 +42,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/fsm/3d/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:8000/fsm/3d/"/>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/fsm/3d/"/>
@@ -50,7 +50,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/fsm/annotation/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:8000/fsm/annotation/"/>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/fsm/annotation/"/>
@@ -58,7 +58,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/fsm/cli/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:8000/fsm/cli/"/>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/fsm/cli/"/>
@@ -66,7 +66,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/fsm/context/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:8000/fsm/context/"/>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/fsm/context/"/>
@@ -74,7 +74,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/fsm/drawing/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:8000/fsm/drawing/"/>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/fsm/drawing/"/>
@@ -82,7 +82,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/fsm/ifc/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:8000/fsm/ifc/"/>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/fsm/ifc/"/>
@@ -90,7 +90,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/fsm/project/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:8000/fsm/project/"/>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/fsm/project/"/>
@@ -98,7 +98,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/en/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/"/>
         <xhtml:link rel="alternate" hreflang="es" href="http://localhost:8000/es/"/>
@@ -106,7 +106,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/en/cli/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/cli/"/>
         <xhtml:link rel="alternate" hreflang="es" href="http://localhost:8000/es/cli/"/>
@@ -114,7 +114,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/en/getting-started/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/getting-started/"/>
         <xhtml:link rel="alternate" hreflang="es" href="http://localhost:8000/es/getting-started/"/>
@@ -122,7 +122,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/en/module/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/module/"/>
         <xhtml:link rel="alternate" hreflang="es" href="http://localhost:8000/es/module/"/>
@@ -130,7 +130,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/en/fsm/2d/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/fsm/2d/"/>
         <xhtml:link rel="alternate" hreflang="es" href="http://localhost:8000/es/fsm/2d/"/>
@@ -138,7 +138,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/en/fsm/3d/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/fsm/3d/"/>
         <xhtml:link rel="alternate" hreflang="es" href="http://localhost:8000/es/fsm/3d/"/>
@@ -146,7 +146,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/en/fsm/annotation/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/fsm/annotation/"/>
         <xhtml:link rel="alternate" hreflang="es" href="http://localhost:8000/es/fsm/annotation/"/>
@@ -154,7 +154,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/en/fsm/cli/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/fsm/cli/"/>
         <xhtml:link rel="alternate" hreflang="es" href="http://localhost:8000/es/fsm/cli/"/>
@@ -162,7 +162,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/en/fsm/context/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/fsm/context/"/>
         <xhtml:link rel="alternate" hreflang="es" href="http://localhost:8000/es/fsm/context/"/>
@@ -170,7 +170,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/en/fsm/drawing/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/fsm/drawing/"/>
         <xhtml:link rel="alternate" hreflang="es" href="http://localhost:8000/es/fsm/drawing/"/>
@@ -178,7 +178,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/en/fsm/ifc/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/fsm/ifc/"/>
         <xhtml:link rel="alternate" hreflang="es" href="http://localhost:8000/es/fsm/ifc/"/>
@@ -186,7 +186,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/en/fsm/project/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/fsm/project/"/>
         <xhtml:link rel="alternate" hreflang="es" href="http://localhost:8000/es/fsm/project/"/>
@@ -194,7 +194,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/es/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="http://localhost:8000/es/"/>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/"/>
@@ -202,7 +202,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/es/cli/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="http://localhost:8000/es/cli/"/>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/cli/"/>
@@ -210,7 +210,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/es/getting-started/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="http://localhost:8000/es/getting-started/"/>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/getting-started/"/>
@@ -218,7 +218,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/es/module/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="http://localhost:8000/es/module/"/>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/module/"/>
@@ -226,7 +226,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/es/fsm/2d/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="http://localhost:8000/es/fsm/2d/"/>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/fsm/2d/"/>
@@ -234,7 +234,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/es/fsm/3d/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="http://localhost:8000/es/fsm/3d/"/>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/fsm/3d/"/>
@@ -242,7 +242,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/es/fsm/annotation/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="http://localhost:8000/es/fsm/annotation/"/>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/fsm/annotation/"/>
@@ -250,7 +250,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/es/fsm/cli/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="http://localhost:8000/es/fsm/cli/"/>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/fsm/cli/"/>
@@ -258,7 +258,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/es/fsm/context/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="http://localhost:8000/es/fsm/context/"/>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/fsm/context/"/>
@@ -266,7 +266,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/es/fsm/drawing/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="http://localhost:8000/es/fsm/drawing/"/>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/fsm/drawing/"/>
@@ -274,7 +274,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/es/fsm/ifc/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="http://localhost:8000/es/fsm/ifc/"/>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/fsm/ifc/"/>
@@ -282,7 +282,7 @@
     </url>
     <url>
         <loc>http://localhost:8000/es/fsm/project/</loc>
-        <lastmod>2026-10-08</lastmod>
+        <lastmod>2026-10-09</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="http://localhost:8000/es/fsm/project/"/>
         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/fsm/project/"/>

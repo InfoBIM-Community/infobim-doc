@@ -77,6 +77,28 @@ plugins:
                 toggle:
                   icon: material/weather-sunny
                   name: Switch to light mode
+          # English-only nav addition: adds the "Concepts" section, which has
+          # no pt/es translation yet. Overriding `nav` per-language (instead
+          # of adding it to the shared `nav:` below) keeps the pt/es builds
+          # from referencing a page that does not exist for them.
+          nav:
+          - Documentação:
+            - Visão geral: index.md
+            - Primeiros passos: getting-started.md
+          - Concepts:
+            - Command tree: concept/command-tree.md
+          - Reference:
+            - CLI: cli.md
+            - Módulos: module.md
+            - FSM:
+              - 2d: fsm/2d.md
+              - 3d: fsm/3d.md
+              - annotate: fsm/annotation.md
+              - cli: fsm/cli.md
+              - context: fsm/context.md
+              - drawing: fsm/drawing.md
+              - ifc: fsm/ifc.md
+              - project: fsm/project.md
         - locale: es
           name: Español
           build: true
@@ -129,7 +151,7 @@ nav:
   - FSM:
     - 2d: fsm/2d.md
     - 3d: fsm/3d.md
-    - annotation: fsm/annotation.md
+    - annotate: fsm/annotation.md
     - cli: fsm/cli.md
     - context: fsm/context.md
     - drawing: fsm/drawing.md
